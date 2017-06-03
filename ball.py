@@ -10,10 +10,6 @@ Desc file:
             a quantity of movement, it cans move from top down and collide with walls.
             With that the ball collide with the paddles too, and has it's own movement & update function 
             so they are overridden.
-TODO:   	
-            * remove param boundary from update function and get local var screen.get_rect().
-            * replace optional val = 0 by value = None.
-            * now self.theta = MIN_ANGLE - 0.35 instead of - .33
 
 Date: 		29/05/2017
 
