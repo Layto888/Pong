@@ -7,3 +7,5 @@ Nota bene : This first program didn't respect the PEP8 convention or any other p
 
 ![pong](https://user-images.githubusercontent.com/28489945/27357645-fc389780-560a-11e7-8d76-13bd7eaefe91.gif)
 
+Note: This application uses an obsolete version of Laylib, to launch it, use the laylib version that comes with in the same folder. If you have a recent version of laylib installed. Use a vienv too.
+
